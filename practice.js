@@ -156,7 +156,7 @@ function faveColorFinder(color) {
     case "black":
       return "so trendy";
     default:
-      return "you need to evaluate your favorite color choices";
+      return "you need to evaluate your favorite color choice";
   }
 }
 
